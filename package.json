@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "name": "package",
+  "description": "package.json file for jest-another-RPG",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --env=node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiyeon31/jest-another-RPG.git"
+  },
+  "keywords": [
+    "jest",
+    "node.js",
+    "javascript",
+    "jQuery",
+    "git"
+  ],
+  "author": "Jiyeon You",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiyeon31/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Jiyeon31/jest-another-RPG#readme"
+}

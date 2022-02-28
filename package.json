@@ -11,7 +11,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "jest --env=node"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
